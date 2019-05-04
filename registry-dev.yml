@@ -4,7 +4,7 @@ spring:
   application:
     name: ly-registry
   rabbitmq:
-    virtual-host: admin
+    virtual-host: /
     username: admin
     password: admin
     host: 124.156.186.21
